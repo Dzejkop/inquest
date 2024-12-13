@@ -2,5 +2,7 @@
 name = "inquest"
 version = "0.1.0"
 edition = "2021"
+description = "Placeholder"
+license = "MIT"
 
 [dependencies]
